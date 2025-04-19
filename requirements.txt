@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit==1.40.0
+mysql-connector-python==9.2.0
+pymysql
+python-dotenv
+streamlit-autorefresh
